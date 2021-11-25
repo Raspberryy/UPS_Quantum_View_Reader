@@ -1,4 +1,4 @@
-# UPS_Quantum_View_Reader
+# UPS Quantum View Reader
 With these python scripts we show one possible implementation to query the UPS Quantum View APIⓇ, parse the results and safe data to a SQL server. Because this implementation was designed specifically for our needs, we might be missing some columns you have. Also, your API results might have a different structure, which currently will not be parsed by our scripts. The UPS Documentation from June 23 2021 was used for this implementation. 
 
 ## Design
